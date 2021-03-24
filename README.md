@@ -13,24 +13,24 @@
 
 # Para amor:
 
-**Una lineas se dos personas besando por que significa el amor
+·Una lineas se dos personas besando por que significa el amor
 
 # Para odio:
 
-**Yo lo he puesto una cara con sangre por que cuando una persona esta enfadada se queda roja
+·Yo lo he puesto una cara con sangre por que cuando una persona esta enfadada se queda roja
 
 # Para paz:
 
-**Yo dibujé dos personas abrazados por que eso significa cuando una persona se desculpa con otra
+·Yo dibujé dos personas abrazados por que eso significa cuando una persona se desculpa con otra
 
 # Para guerra:
 
-**Dibujé una arma porque eso lo usan en las guerras 
+·Dibujé una arma porque eso lo usan en las guerras 
 
 # HAS UTILIZADO ALGÚN SÍMBOLO?¿Cuales?
 
-**No lo he utilizado nada 
+·No lo he utilizado nada 
 
 # ¿Has sacado algo de este ejercicio?
 
-**Que todo eso pasa en nuestra vida
+·Que todo eso pasa en nuestra vida
