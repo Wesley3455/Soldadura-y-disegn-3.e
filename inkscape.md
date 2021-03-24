@@ -65,3 +65,7 @@ IMAGEN 3
 IMAGEN 4
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/leon%20vectorizado%201.svg)
+
+IMAGEN 5
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%20CON%20DETECCION%20DE%20BORDES%20.svg)
