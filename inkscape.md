@@ -34,4 +34,8 @@
 ## Rasterización
 
 
-![](https://raw.githubusercontent.com/Wesley3455/Soldadura-y-disegn-3.e/4031af05e05df972cde74e512c2421056919aeba/imagen%20vectorial.svg)
+![](https://raw.githubusercontent.com/Wesley3455/Soldadura-y-disegn-3.e/4031af05e05df972cde74e512c2421056919aeba/imagen%20vectorial.svg)çç
+
+Imagen ráster 3 ppp
+
+![](https://raw.githubusercontent.com/Wesley3455/Soldadura-y-disegn-3.e/main/rect88.png)
