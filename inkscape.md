@@ -43,3 +43,7 @@ Imagen ráster 3 ppp
 imagen raster 50 ppp
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/rect88wb.png)
+
+imagen raster 150 ppp
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/rect88150.png)
