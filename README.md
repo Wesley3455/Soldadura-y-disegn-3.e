@@ -7,4 +7,4 @@
 
 # Ejercicio de conceptos
 
-
+![foto](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/wesley%20dibujo.jpg)
