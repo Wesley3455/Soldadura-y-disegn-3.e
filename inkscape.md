@@ -52,8 +52,12 @@ imagen raster 150 ppp
 
 IMAGEN 1
 
-![1](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%202.svg)
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%202.svg)
 
 IMAGEN 2
 
 ![2](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%203.svg)
+
+IMAGEN 3
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%204.svg)
