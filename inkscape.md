@@ -47,3 +47,7 @@ imagen raster 50 ppp
 imagen raster 150 ppp
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/rect88150.png)
+
+# IMAGENS VECTORIZADAS
+
+![1](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%202.svg)
