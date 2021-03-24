@@ -1,7 +1,6 @@
 # Soldadura-y-disegn-3.e
 
-# INKSCAPE.md
+Cosas de inkscape
 
-# ESTRA ARDUINO.md
 
-# (TITULO)=Diseño 3D
+
