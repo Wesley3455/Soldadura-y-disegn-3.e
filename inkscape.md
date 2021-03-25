@@ -1,5 +1,8 @@
 # Documentación inkscape
 
+### imagen mapa de bits:son pixeles.
+
+### imagen vectorial:son formulas matematicas.
 
 ## Ejercicio de conceptos
 
