@@ -94,3 +94,7 @@ Forma original:
 2
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-26-26.png)
+
+3
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-33-48.png)
