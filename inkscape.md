@@ -77,8 +77,6 @@ IMAGEN 5
 
 Forma original:
 
-### Estilo de línea
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/wesley%20iamgen%20de%20mierda.png)
 
-### Relleno 
-
-### Color de línea
+### Estilo de líneas,relleno,color;
