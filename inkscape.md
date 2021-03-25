@@ -72,3 +72,13 @@ IMAGEN 4
 IMAGEN 5
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%20CON%20DETECCION%20DE%20BORDES%20.svg)
+
+## Ejercicio características de forma
+
+Forma original:
+
+### Estilo de línea
+
+### Relleno 
+
+### Color de línea
