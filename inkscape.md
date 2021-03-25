@@ -77,7 +77,12 @@ IMAGEN 5
 
 Forma original:
 
+primera
+
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/wesley%20iamgen%20de%20mierda.png)
 
 ### Estilo de líneas,relleno,color;
 
+primera
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-26-26.png)
