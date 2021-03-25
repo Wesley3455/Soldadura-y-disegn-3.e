@@ -81,24 +81,16 @@ Forma original:
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-32-58.png)
 
-2
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-57-01.png)
 
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/wesley%20iamgen%20de%20mierda.png)
 
-3
 
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-33-29.png)
 
-4
 
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-34-15.png)
+
+
+
+
 
 ### Estilo de líneas,relleno,color;
 
-2
-
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-26-26.png)
-
-3
-
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-33-48.png)
