@@ -117,3 +117,7 @@ HE APRENDIDO A LINEAR,PONER EL CIRCOLO DE LA FORMA CORECTO
 LOGO 3 DIFERENTE
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-13-40.png)
+
+## LOGO 4
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-37-17.png)
