@@ -110,5 +110,7 @@ HE APRENDIDO A LINEAR,PONER EL CIRCOLO DE LA FORMA CORECTO
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-27-05.png)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-30-49.png)
 
+## LOGO 3
 
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-02-48.png)
 
