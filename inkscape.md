@@ -121,3 +121,7 @@ LOGO 3 DIFERENTE
 ## LOGO 4
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-37-17.png)
+
+## LOGO 5
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-52-49.png)
