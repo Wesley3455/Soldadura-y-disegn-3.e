@@ -97,8 +97,10 @@ Forma original:
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2013-25-30.png)
 
 ## LOGO 01 ALINEACIÓN HORIZONTAL Y VERTICAL 
+
 ![LOGO](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/WESLEY%20BC.svg)
-HE APRENDIDO A LINEAR,PONER EL CIRCOLO DE LA FORMA  CORECTO
+
+HE APRENDIDO A LINEAR,PONER EL CIRCOLO DE LA FORMA CORECTO
 
 
 
