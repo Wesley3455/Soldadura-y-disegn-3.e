@@ -53,7 +53,9 @@ imagen raster 150 ppp
 
 ## IMAGENS VECTORIZADAS 
 
-**La vectorizaciones te enseña poner colores diferentes,pixeles de forma matematicas
+
+### La vectorizaciones te enseña poner colores diferentes,pixeles de forma matematicas
+
 
 IMAGEN 1
 
