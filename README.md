@@ -7,3 +7,6 @@
 
 
 [cosas de la Lampara](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Lampara.md#proceso-de-lampara)
+
+
+[cosas de soldadura](https://github.com/Wesley3455/Soldadura-y-disegn-3.e)
