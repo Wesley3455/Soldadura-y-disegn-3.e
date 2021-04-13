@@ -106,7 +106,9 @@ Forma original:
 
 HE APRENDIDO A LINEAR,PONER EL CIRCULO DE LA FORMA CORECTO
 
-## LOGO 2
+## LOGO 2 CON UN SOLO OBJETO
+
+### Este logo te enseña a poner una figura en triangulo,colores,rotar la figura,alinear con atra pieza de la misma figura.
 
 ![FOTO](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-29-59.png)
 
@@ -114,7 +116,9 @@ HE APRENDIDO A LINEAR,PONER EL CIRCULO DE LA FORMA CORECTO
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-27-05.png)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-30-49.png)
 
-## LOGO 3
+## LOGO 3 DIFERENCIAS CON OBJETOS
+
+### AQUI TE ESEÑA COMO RELLENAR UNA FIGURA A INCLINARLA BIEN Y CORTARLA.
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-02-48.png)
 
@@ -122,11 +126,15 @@ LOGO 3 DIFERENTE
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-13-40.png)
 
-## LOGO 4
+## LOGO 4   ORDENACION EN FILAS Y COLUMNAS
+
+### HE APRENDIDO A ORDENAR LOS CUADRADOS EN FILAS Y COLUMNAS DIFERENTES.
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-37-17.png)
 
-## LOGO 5
+## LOGO 5 ADITANDO CUATRO NODOS 
+
+ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-52-49.png)
 
