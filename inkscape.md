@@ -53,6 +53,8 @@ imagen raster 150 ppp
 
 ## IMAGENS VECTORIZADAS 
 
+**La vectorizaciones te enseña poner colores diferentes,pixeles de forma matematicas
+
 IMAGEN 1
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%202.svg)
@@ -100,7 +102,7 @@ Forma original:
 
 ![LOGO](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/WESLEY%20BC.svg)
 
-HE APRENDIDO A LINEAR,PONER EL CIRCOLO DE LA FORMA CORECTO
+HE APRENDIDO A LINEAR,PONER EL CIRCULO DE LA FORMA CORECTO
 
 ## LOGO 2
 
