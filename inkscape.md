@@ -130,13 +130,13 @@ LOGO 3 DIFERENTE
 
 ### HE APRENDIDO A ORDENAR LOS CUADRADOS EN FILAS Y COLUMNAS DIFERENTES.
 
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-37-17.png)
+![HE APRENDIDO A ORDENAR LOS CUADRADOS EN FILAS Y COLUMNAS DIFERENTES](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-37-17.png)
 
 ## LOGO 5 ADITANDO CUATRO NODOS 
 
 ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 
-![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-52-49.png)
+![ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2013-52-49.png)
 
 ## Dibujo de la GOL
 
