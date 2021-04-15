@@ -10,6 +10,7 @@ Computer aidad design
 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2012-21-26.png)
+
 un puente es donde se pone la cabeza de la maquina 
 
 
