@@ -141,3 +141,8 @@ ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 ## Dibujo de la GOL
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-09%2012-13-56.png)
+
+
+##EXTRA ORDENADOR
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274924.jpg)
