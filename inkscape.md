@@ -149,3 +149,10 @@ ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274924.jpg)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274927.jpg)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274929.jpg)
+
+## El laser
+
+esta es la imagen que voy  usar en laser,las cogido un logo del FREE FIRE.
+
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-09-17.png)
