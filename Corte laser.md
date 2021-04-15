@@ -28,6 +28,7 @@ un puente es donde se pone la cabeza de la maquina
 
 
 ## La cortadora de laser 
+
 aplificacion de luz atravez emicion de radiacion estimulada 
 que es:hace energia con vario movimientos 
 nuestro laser es de CO2,hay otros de fibra 
@@ -39,4 +40,10 @@ nuestro laser es de CO2,hay otros de fibra
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618486927886.jpg)
 
 
-cual es le viaje del az del laser a traves de la maquina tenemos un tubo se refleja en un segundo espejo que esta e e punete un 3 espej que esta en la cabeza y en el cabeza ese az lleva a un lense que hace que convenza en un  punto focal.
+Cual es le viaje del az del laser a traves de la maquina tenemos un tubo que se refleja en un segundo espejo que esta en el puente en 3 espejo que esta en la cabeza y eso lleva a un lense que hace que convenza en un  punto focal.
+
+## El angulo de salida
+
+la normal de una superficie es la recta perpendicular de una superficie en un punto concreto 
+
+
