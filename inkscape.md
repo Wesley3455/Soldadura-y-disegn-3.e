@@ -145,6 +145,8 @@ ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 
 ## EXTRA ORDENADOR
 
+Hemos aprendido a desmontar ordenadores y montar y tambien nos has explicado como funciona las piezas 
+
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274924.jpg)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274927.jpg)
