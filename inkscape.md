@@ -159,5 +159,4 @@ Esta es la imagen que voy  usar en laser,las cogido un logo del FREE FIRE.
 
 Y esta lo ha modificado su tamaño,la linea y el grosor
 
-
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-10-40.png)
