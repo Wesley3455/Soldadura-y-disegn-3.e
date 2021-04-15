@@ -6,7 +6,13 @@ Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
 
 
 ## CAD
+
 Computer aidad design
+
+
+## CAM
+
+COMPUTER.AIDED.MACHINING:Mover maquinas
 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2012-21-26.png)
