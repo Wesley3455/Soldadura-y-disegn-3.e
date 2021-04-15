@@ -145,5 +145,7 @@ ME HE ENSEÑADO HACER CURVAS EN LAS FIGURAS CON PUNTOS NODOS.
 
 ## EXTRA ORDENADOR
 
+
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274924.jpg)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274927.jpg)
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618471274929.jpg)
