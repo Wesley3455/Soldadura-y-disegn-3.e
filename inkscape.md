@@ -175,3 +175,5 @@ SVG
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-22-32.png)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-27-18.png)
+
+# este te enseña a linear los nodos a usarlos bien 
