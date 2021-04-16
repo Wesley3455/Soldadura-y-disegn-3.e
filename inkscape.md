@@ -164,3 +164,8 @@ Y esta lo ha modificado su tamaño,la linea y el grosor
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-10-40.png)
 SVG
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/logo%20free%20fire.svg)
+
+
+## documentacion de 3 logos mas 
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-22-32.png)
