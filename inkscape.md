@@ -69,7 +69,7 @@ IMAGEN 3
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/imagen%20vectorizada%204.svg)
 
-IMAGEN 4
+IMAGEN 4https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-22-32.png
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/leon%20vectorizado%201.svg)
 
@@ -159,6 +159,7 @@ Esta es la imagen que voy  usar en laser,las cogido un logo del FREE FIRE.
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-09-17.png)
 
+
 Y esta lo ha modificado su tamaño,la linea y el grosor
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-10-40.png)
@@ -168,4 +169,9 @@ SVG
 
 ## documentacion de 3 logos mas 
 
+# alineando nodo
+
+
+
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-22-32.png)
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-27-18.png)
