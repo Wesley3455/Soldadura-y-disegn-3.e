@@ -186,3 +186,8 @@ aqui no ha podido a cambiar los colores,proque no lo entiendo como debe hacer
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2009-45-22.png)
 
 
+## Falsas booteanas
+
+no ha poddido hacerlo bien porque no veia donde estaba los puntos 
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2010-28-19.png)
