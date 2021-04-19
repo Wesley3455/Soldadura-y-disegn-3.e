@@ -54,3 +54,7 @@ EJP=impact,arial,helvetica,times new Roman,nunito.
 puede imcluso no escribir letas,formas e hacer simbolos 
 las tipografia solo usan los ordenadores que se ha descargado 
 PDF:Portable document format,Embeber o epipotar la tipografiaincluir en un archivo separado pasar texto a contornos o trazos
+
+
+
+
