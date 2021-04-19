@@ -12,4 +12,4 @@
 [cosas de soldadura](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Soldadura.md#cosas-de-soldadura)
 
 
-[Apuntes de corte laser](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Corte%20laser.md)
+[corte laser](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Corte%20laser.md)
