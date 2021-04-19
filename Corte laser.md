@@ -1,23 +1,22 @@
 ## Apuntes classe corte laser
-Vamos a ver maquinas de cortes diferente,maquinas con cutillo y una maquina que tiene en el fab lab de castelldefels que se llama
-Epilog.
-Maquina emisor de plasma:
-Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
+###### Vamos a ver maquinas de cortes diferente,maquinas con cutillo y una maquina que tiene en el fab lab de castelldefels que se llama Epilog.
+# Maquina emisor de plasma:
+###### Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
 
 
 ## CAD
 
-Computer aidad design:
+###### Computer aidad design:
 
 
 ## CAM
 
-COMPUTER.AIDED.MACHINING:Mover maquinas
+###### COMPUTER.AIDED.MACHINING:Mover maquinas
 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2012-21-26.png)
 
-un puente es donde se pone la cabeza de la maquina 
+###### un puente es donde se pone la cabeza de la maquina 
 
 
 ## Maquina de chorro de agua aprecion
@@ -29,10 +28,10 @@ un puente es donde se pone la cabeza de la maquina
 
 ## La cortadora de laser 
 
-aplificacion de luz atravez emicion de radiacion estimulada 
-que es:hace energia con vario movimientos 
-nuestro laser es de CO2,hay otros de fibra 
-(es la surperficie iluminada por reflejo)
+###### aplificacion de luz atravez emicion de radiacion estimulada 
+###### que es:hace energia con vario movimientos 
+###### nuestro laser es de CO2,hay otros de fibra 
+###### (es la surperficie iluminada por reflejo)
 
 
 ## explicacion de reflexion de luz
@@ -40,19 +39,19 @@ nuestro laser es de CO2,hay otros de fibra
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1618486927886.jpg)
 
 
-Cual es la viaje del az del laser a traves de la maquina tenemos un tubo que se refleja en un segundo espejo que esta en el puente en 3 espejo que esta en la cabeza y eso lleva a un lense que hace que convenza en un  punto focal.
+###### Cual es la viaje del az del laser a traves de la maquina tenemos un tubo que se refleja en un segundo espejo que esta en el puente en 3 espejo que esta en la cabeza y eso lleva a un lense que hace que convenza en un  punto focal.
 
 ## El angulo de salida
 
-la normal de una superficie es la recta perpendicular de una superficie en un punto concreto 
+###### la normal de una superficie es la recta perpendicular de una superficie en un punto concreto 
 
 
 
 ## DISEÑO INICIAL PARA CON LASER
 
-EU ESCOLHI UM LOGO DO FREE FIRE POR QUE ESE JOGO EU GOSTO MUITO E QUERO SER ESTRIMER.
-CARAQUITERISTICA E BRANCO E PRETO FORMATO EM CIRCOLO
-IMG
+###### EU ESCOLHI UM LOGO DO FREE FIRE POR QUE ESE JOGO EU GOSTO MUITO E QUERO SER ESTRIMER.
+###### CARAQUITERISTICA E BRANCO E PRETO FORMATO EM CIRCOLO
+###### IMG
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/images.png)
 
