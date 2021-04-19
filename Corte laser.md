@@ -51,6 +51,8 @@ Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
  EU ESCOLHI UM LOGO DO FREE FIRE POR QUE ESE JOGO EU GOSTO MUITO E QUERO SER ESTRIMER.
  CARAQUITERISTICA E BRANCO E PRETO FORMATO EM CIRCOLO
  e a linha vermelha que indica a maquina onde vai cortar 
+ 
+ ![enlace](https://www.google.com/search?channel=fs&client=ubuntu&q=LOGO+DE+FREE+FIRE)
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/images.png)
 
