@@ -75,7 +75,7 @@ A LASER É UMA MAQUINA DE VIDRO TEM UM TUBO QUE FAZ MOVER O CORTE TEM UMA
 
 ## PIEZA CORTADA 
 
-cortei a figura saiu bem mas nos bordes estava muito fino e se quebro 
+cortei a figura saiu bem mas nos bordes estava muito fino e quebro 
 entao fizemos otro mais grosso e essa sim saiu bem 
 e tambem tentei escrever  o nome free fire com uma tipografia diferente mas quando subimos no meu repositorio 
 o computador nao leu bem como que era a tipografia porque nao tinha instalado no otro,obs usamos um computador pra subir 
