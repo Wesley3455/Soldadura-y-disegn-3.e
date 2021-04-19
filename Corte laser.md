@@ -51,7 +51,7 @@
 
 ###### EU ESCOLHI UM LOGO DO FREE FIRE POR QUE ESE JOGO EU GOSTO MUITO E QUERO SER ESTRIMER.
 ###### CARAQUITERISTICA E BRANCO E PRETO FORMATO EM CIRCOLO
-###### IMG
+###### e a linha vermelha que indica a maquina onde vai cortar 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/images.png)
 
