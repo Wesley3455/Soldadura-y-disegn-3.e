@@ -197,9 +197,17 @@ no ha poddido hacerlo bien porque no veia donde estaba los puntos
 
 DAFONT:
 
+la documenetacion de como ir a la font,descargar,como lo busca,etc
+
 [EL ENLACE](https://www.dafont.com/es/)
 
 Roose Sally
 me he descargado esta fuente:
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-20-36.png)
+
+
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-53-19.png)
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-32-32.png)
+
