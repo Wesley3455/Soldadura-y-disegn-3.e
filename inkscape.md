@@ -194,6 +194,15 @@ no ha poddido hacerlo bien porque no veia donde estaba los puntos
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2010-28-19.png)
 
+## TIPOGRAFIA
+
+COMO FUNCIONA;son una definicion grafica de caracteres,
+EJP=impact,arial,helvetica,times new Roman,nunito.
+###### DARKER;Puede ser archivo TTF,OTF,tipo vectorial
+puede imcluso no escribir letas,formas e hacer simbolos 
+las tipografia solo usan los ordenadores que se ha descargado 
+PDF:Portable document format,Embeber o epipotar la tipografiaincluir en un archivo separado pasar texto a contornos o trazos
+
 
 DAFONT:
 
@@ -201,11 +210,11 @@ la documenetacion de como ir a la font,descargar,como lo busca,etc
 
 [EL ENLACE](https://www.dafont.com/es/)
 
-Roose Sally
+## Roose Sally  
+
 me he descargado esta fuente:
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-20-36.png)
-
 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-53-19.png)
