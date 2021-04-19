@@ -10,6 +10,6 @@ He visto este proyecto y me ha gustado:
 https://www.youtube.com/watch?v=mwwMJocGT2g
 
 
-## jo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino,obs:quiero que la luz brilla durante la noche 
-## y que se apague al dia 
+###### jo voy hacer la lampara de madera,con litro de agua y con las luzes del arduino,obs:quiero que la luz brilla durante la noche 
+###### y que se apague al dia 
 
