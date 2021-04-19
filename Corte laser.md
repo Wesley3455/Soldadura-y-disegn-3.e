@@ -52,7 +52,7 @@ Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
  CARAQUITERISTICA E BRANCO E PRETO FORMATO EM CIRCOLO
  e a linha vermelha que indica a maquina onde vai cortar 
  
- ![enlace](https://www.google.com/search?channel=fs&client=ubuntu&q=LOGO+DE+FREE+FIRE)
+ [enlace](https://www.google.com/search?channel=fs&client=ubuntu&q=LOGO+DE+FREE+FIRE)
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/images.png)
 
