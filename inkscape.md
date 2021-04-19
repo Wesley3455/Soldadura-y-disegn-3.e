@@ -160,7 +160,9 @@ Esta es la imagen que voy  usar en laser,las cogido un logo del FREE FIRE.
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-09-17.png)
 
 
-Y esta lo ha modificado su tamaño,la linea y el grosor
+Y esta lo ha modificado su tamaRoose Sally es gratuito para uso personal, sin fines de lucro y de caridad.
+Si usa mi fuente comercialmente, puede donar primero.
+Me alegra saber que usaste mi fuente para tu proyecto, te lo agradezco mucho. Me alegra que me digas cómo mi fuente ayuda a tu proyecto enviando enlaces o imágenes de tu trabajo.ño,la linea y el grosor
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-15%2010-10-40.png)
 SVG
@@ -191,3 +193,13 @@ aqui no ha podido a cambiar los colores,proque no lo entiendo como debe hacer
 no ha poddido hacerlo bien porque no veia donde estaba los puntos 
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-16%2010-28-19.png)
+
+
+DAFONT:
+
+[](https://www.dafont.com/es/)
+
+Roose Sally
+me he descargado esta fuente:
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-20-36.png)
