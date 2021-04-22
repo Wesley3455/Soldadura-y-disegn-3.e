@@ -8,6 +8,9 @@ Si calentamos energia al gas hacemos plasma,y cuando le digamos vas cortando.
 
  Computer aidad design:
 
+## JOB
+
+conjunto de instrucciones para que ejecute una maquina de fabricacion
 
 ## CAM
 
