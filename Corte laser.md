@@ -31,7 +31,7 @@ conjunto de instrucciones para que ejecute una maquina de fabricacion
 
 ## laser
 
-[enlace](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/FRESADO)
+[enlace](http://mods.cba.mit.edu/O)
 
 
 
