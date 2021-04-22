@@ -89,3 +89,7 @@ entao fizemos otro mais grosso e essa sim saiu bem
 e tambem tentei escrever  o nome free fire com uma tipografia diferente mas quando subimos no meu repositorio 
 o computador nao leu bem como que era a tipografia porque nao tinha instalado no otro,obs usamos um computador pra subir 
 e o otro era pra cortar
+
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1619085832545.jpg)
+![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1619085832542.jpg)
+
