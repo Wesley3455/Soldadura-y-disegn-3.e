@@ -15,4 +15,4 @@
 [corte laser](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Corte%20laser.md)
 
 
-[fresado](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/FRESADO)
+
