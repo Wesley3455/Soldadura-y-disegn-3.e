@@ -93,3 +93,22 @@ e o otro era pra cortar
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1619085832545.jpg)
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/1619085832542.jpg)
 
+
+## Fresado
+ eu troquei a imagem de svg por png modifiquei o tamanho 
+  ajustei a ferramenta 
+ diametro de 1mm
+ cut depth 2mm
+ total cut 2mm
+ offset number 4
+ offset stepover 0.75
+ ## AJUSTAR ROLANO 
+speed:10mm/s
+origin:x-0,y,z0,
+jog height:4mm
+
+## ajustar modulo de guardar archivo
+
+
+
+## darle calculate.y guardar el.rml
