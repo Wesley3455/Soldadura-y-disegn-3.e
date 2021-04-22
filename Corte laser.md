@@ -108,7 +108,7 @@ origin:x-0,y,z0,
 jog height:4mm
 
 ## ajustar modulo de guardar archivo
-
+EU USEI A MESMA IMAGEN QUE USEI PARA CORTAR NA LASER E SO TROQUEI DE SVG PARA PNG.
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2012-48-34.png)
 
