@@ -112,6 +112,9 @@ EU USEI A MESMA IMAGEN QUE USEI PARA CORTAR NA LASER E SO TROQUEI DE SVG PARA PN
 
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2012-48-34.png)
 
+[archivo](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/logo%20free%20fire%20fondo%20blanco.png(1).rml)
+
+[archivo2](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/logo%20free%20fire%20fondo%20blanco.png.rml)
 
 ## darle calculate .y guardar el.RML
 
