@@ -113,4 +113,4 @@ jog height:4mm
 ![](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2012-26-53.png)
 
 
-## darle calculate.y guardar el.rml
+
