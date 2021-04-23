@@ -74,14 +74,14 @@ conjunto de instrucciones para que ejecute una maquina de fabricacion
 
 ## CORTE LASER 
 
-A LASER É UMA MAQUINA DE VIDRO TEM UM TUBO QUE FAZ MOVER O CORTE TEM UMA 
+ A LASER É UMA MAQUINA DE VIDRO TEM UM TUBO QUE FAZ MOVER O CORTE TEM UMA 
  LUZ BRANCA QUE CORTA A MADERA ETC
  PARA FAZER FUNCIONAR TEM QUE VECTORIZAR A IMAGEN COLOCAR PIXILES,COLOCAR EM BRANCO E PRETO E ENVIAR A MAQUINA 
  E LOGA DAR EM GO E ASSIM A MAQUINA FAZ O PROCESSO
  PARA PASAR DE DESENHO A CORTE TEM QUE COLOCAR UMA LINHA VERMELHA PARA QUE A MAQUINA ENTENDA 
- ONDE QUE TEM QUE CORTAR 
-
-
+ ONDE QUE TEM QUE CORTAR,considerada una de las mejores técnicas para realizar cortes perfectos y cantos pulidos
+ Una vez que el rayo láser ha penetrado completamente en un punto del material, comienza el proceso de corte real.
+ 
 ## PIEZA CORTADA 
 
 cortei a figura saiu bem mas nos bordes estava muito fino e quebro 
