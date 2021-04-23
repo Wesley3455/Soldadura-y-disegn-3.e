@@ -198,12 +198,12 @@ no ha poddido hacerlo bien porque no veia donde estaba los puntos
 
 ## TIPOGRAFIA
 
-###### COMO FUNCIONA;son una definicion grafica de caracteres,
-###### EJP=impact,arial,helvetica,times new Roman,nunito.
-###### DARKER;Puede ser archivo TTF,OTF,tipo vectorial
-###### puede imcluso no escribir letas,formas e hacer simbolos 
-###### las tipografia solo usan los ordenadores que se ha descargado 
-###### PDF:Portable document format,Embeber o epipotar la tipografiaincluir en un archivo separado pasar texto a contornos o trazos
+##### COMO FUNCIONA;son una definicion grafica de caracteres,
+##### EJP=impact,arial,helvetica,times new Roman,nunito.
+##### DARKER;Puede ser archivo TTF,OTF,tipo vectorial
+##### puede imcluso no escribir letas,formas e hacer simbolos 
+##### las tipografia solo usan los ordenadores que se ha descargado 
+##### PDF:Portable document format,Embeber o epipotar la tipografia incluir en un archivo separado pasar texto a contornos o trazos
 
 
 DAFONT:
