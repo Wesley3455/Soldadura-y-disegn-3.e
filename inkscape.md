@@ -206,7 +206,7 @@ no ha poddido hacerlo bien porque no veia donde estaba los puntos
 ##### PDF:Portable document format,Embeber o epipotar la tipografia incluir en un archivo separado pasar texto a contornos o trazos
 
 
-DAFONT:
+## DAFONT:
 
 la documenetacion de como ir a la font,descargar,como lo busca,etc
 
