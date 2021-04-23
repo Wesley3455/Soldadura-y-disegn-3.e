@@ -1,21 +1,21 @@
-# Soldadura-y-disegn-3.e 🇧🇷🇪🇸
+# Soldadura-y-disegn-3.e😡
 
-[ inkscape.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/inkscape.md#documentaci%C3%B3n-inkscape)
-
-
-[arduino.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/arduino.md#documentacion-del-arduino)
+[ inkscape.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/inkscape.md#documentaci%C3%B3n-inkscape)
 
 
-[TRABAJO de la Lampara 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Lampara.md#proceso-de-lampara)
+[arduino.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/arduino.md#documentacion-del-arduino)
 
 
-[ soldadura.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Soldadura.md#cosas-de-soldadura)
+[TRABAJO de la Lampara😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Lampara.md#proceso-de-lampara)
 
 
-[corte laser.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Corte%20laser.md)
+[ soldadura.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Soldadura.md#cosas-de-soldadura)
 
 
-[Fresado.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Fresado.md#teoria)
+[corte laser.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Corte%20laser.md)
 
 
-[Examen.md 🇧🇷🇪🇸](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/examen.md#practica)
+[Fresado.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Fresado.md#teoria)
+
+
+[Examen.md😡](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/examen.md#practica)
