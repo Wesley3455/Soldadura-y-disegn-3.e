@@ -16,3 +16,6 @@
 
 
 [Fresado.md](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Fresado.md#teoria)
+
+
+[Examen.md](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/examen.md#practica)
