@@ -102,9 +102,11 @@ Forma original:
 
 ## LOGO 01 ALINEACIÓN HORIZONTAL Y VERTICAL 
 
+este es un logo de las alineaciones y las distribuciones de objetos 
+
 ![LOGO](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/WESLEY%20BC.svg)
 
-HE APRENDIDO A LINEAR,PONER EL CIRCULO DE LA FORMA CORECTO
+HE APRENDIDO A LINEAR,PONER EL CIRCULO DE LA FORMA CORECTO y tambien un programa de diseño vectorial
 
 ## LOGO 2 CON UN SOLO OBJETO
 
