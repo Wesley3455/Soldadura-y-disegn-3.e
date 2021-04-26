@@ -6,9 +6,6 @@
 [arduino.md](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/arduino.md#documentacion-del-arduino)
 
 
-[TRABAJO de la Lampara](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Lampara.md#proceso-de-lampara)
-
-
 [ soldadura.md](https://github.com/Wesley3455/Soldadura-y-disegn-3.e/blob/main/Soldadura.md#cosas-de-soldadura)
 
 
